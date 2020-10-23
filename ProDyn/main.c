@@ -63,6 +63,10 @@ void testSac ()
  * 
  */
 int main(int argc, char** argv) {
+    /** 
+    * Je n'ai eu le temps que de faire les deux premiers exercices desolé
+    */
+    
     /**@see testDivConq */
     testDivConq();
     
